@@ -146,6 +146,21 @@ AI-Powered-Industrial-Casting-Defect-Detection/
 └── images/
 ```
 
+# 📷 Results
+
+## Training Performance
+
+![Accuracy](images/training_accuracy.png)
+
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+## Explainable AI (Grad-CAM)
+
+![GradCAM](images/gradcam_1.png)
+
 ---
 
 # 📄 License
